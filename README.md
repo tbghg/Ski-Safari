@@ -1,2 +1,3 @@
-# Ski-Safari-
+# Ski-Safari
 作者：吴华骅、田冰航、李浩浩、杨林川
+
